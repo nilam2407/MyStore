@@ -128,6 +128,15 @@ span:hover{
   margin-bottom:0px;
 }
 
+.footerstyle{
+  border-top:thin ridge;
+  background-color:whitesmoke;
+  border-color: tomato;
+  padding: 30px 0px;
+
+  
+}
+
 .search-box{
   border:1px solid lightgrey;
   border-radius:50px;
